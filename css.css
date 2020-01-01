@@ -1,0 +1,54 @@
+body,
+html{
+	width: 100%;
+	height:100%;
+	font-family: "Courier Prime";
+    background:url(http://dev.schools500reformation.net/site/assets/files/1441/dsc01909.640x220.jpg) no-repeat center center fixed;
+	   -webkit-background-size: cover;
+	   background-size: cover; 
+
+}
+h1{
+	font-size: 3rem;
+	color: white;
+
+}
+hr{
+	border-color: white;
+	border-width: 3px
+	max-width: 40;
+	
+}
+.btn{
+	font-weight: 700;
+	border-radius: 300px;
+	background-color: #e47719;
+	border-color: #e47719;
+}
+.btn-xl{
+	padding: 1em 2em; 
+}
+.btn-primary{
+	text-transform: uppercase;
+}
+}
+
+.buffer{
+	height: 10rem;
+} 
+
+
+ .btn:hover{
+	background-color: #e47719;
+	border-width: 8px;
+	border-color: #e47719;
+}
+hr{
+	border-color: white;
+	max-width: 40;
+	
+}
+
+.buffer{
+	height: 100px;
+}
